@@ -1,8 +1,8 @@
-NAME ?= Zeus
+NAME ?= RAS
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 
-CODE := Kernel-AOSP-onclite
+CODE := Kernel-AOSP-onclite@mashkoukras
 
 ZIP := $(NAME)-$(CODE)-$(DATE).zip
 
